@@ -8,3 +8,6 @@ const void = () => {};
 ```
 const a = 2;
 ```
+```
+const b = 3;
+```

@@ -1,3 +1,3 @@
-const d=2;
-const c = 1;
 
+//const c = 1;
+const f='some text';
