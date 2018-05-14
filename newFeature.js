@@ -1,1 +1,1 @@
-// some new feature expected
+const d=2;
