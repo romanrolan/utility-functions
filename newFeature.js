@@ -1,1 +1,1 @@
-// some new feature expected
+const c = 1;
