@@ -5,3 +5,6 @@ Some test random functions, i.e. junk code snippets
 ```
 const void = () => {};
 ```
+```
+const a = 2;
+```
